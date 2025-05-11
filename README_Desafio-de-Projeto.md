@@ -1,4 +1,4 @@
-# Formação DevOps Fundamentals - Projeto Final
+# Formação DevOps Fundamentals 
 
 Este repositório contém o projeto desenvolvido como parte do curso **DevOps Fundamentals** da DIO.me, ministrado pelo instrutor **Alexsandro Lechner**.
 
